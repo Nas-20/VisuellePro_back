@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/socialite": "*",
+        "laravel/passport": "^12.3"
+    }
+}
